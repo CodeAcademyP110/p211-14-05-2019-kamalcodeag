@@ -1,0 +1,10 @@
+﻿- İstifadəçinin daxil etdiyi cümlədə boşluqların (space) sayını tapan metod yaz.
+- Rəqəmlərdən ibarət array qəbul edib, həmin array-də olan rəqəmlərin ortalamasını qaytaran bir metod yaz.
+- Rəqəmlərdən ibarət array qəbul edib, həmin array-də olan yalnız cüt rəqəmlərdən ibarət bir array-i qaytaran
+  bir metod yaz.
+- Rəqəmlərdən ibarət array qəbul edib, yalnız o rəqəmlərin ortalamasından böyük olan rəqəmlərdən ibarət 
+  bir array-i qaytaran bir metod yaz.
+- Qüvvətüstü tapan metod yaz (iki rəqəm qəbul edir, birinci əsas, ikinci qüvvətüstü).
+- Sözlərdən ibarət bir arrayi qəbul edib, array-dəki ən uzun sözü qaytaran bir metod yaz.
+- Sözlərdən ibarət bir arrayi qəbul edib, həmin sözləri vergül ilə birləşdirib tək söz kimi qaytaran metod yaz.
+  Ən sonda vergül düşməməlidir. (Hazır metoddan istifadə etməyin.)
