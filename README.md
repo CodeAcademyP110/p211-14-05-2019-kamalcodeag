@@ -7,6 +7,6 @@
   - String-lər və onların char[] kimi saxlanmağı
   - GC (Garbage Collection) və onun metodları
   
-- Homeworks.txt faylında olan tapşırıqları yazın.
+- C# methods.txt faylında olan tapşırıqları yazın.
 
 *Sabaha qədər. Uğurlar.*
