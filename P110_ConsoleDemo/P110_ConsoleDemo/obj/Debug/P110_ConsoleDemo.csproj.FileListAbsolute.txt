@@ -1,0 +1,14 @@
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csprojAssemblyReference.cache
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csproj.CoreCompileInputs.cache
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe.config
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.pdb
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.exe
+c:\users\samird\source\repos\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.pdb
+D:\Programming\Other\C#\14.05.2019\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csprojAssemblyReference.cache
+D:\Programming\Other\C#\14.05.2019\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.csproj.CoreCompileInputs.cache
+D:\Programming\Other\C#\14.05.2019\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.exe
+D:\Programming\Other\C#\14.05.2019\P110_ConsoleDemo\P110_ConsoleDemo\obj\Debug\P110_ConsoleDemo.pdb
+D:\Programming\Other\C#\14.05.2019\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe.config
+D:\Programming\Other\C#\14.05.2019\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.exe
+D:\Programming\Other\C#\14.05.2019\P110_ConsoleDemo\P110_ConsoleDemo\bin\Debug\P110_ConsoleDemo.pdb
